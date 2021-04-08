@@ -240,7 +240,7 @@
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="ProductSetcionTitle">
-                                            <h3>প্রি-অর্ডারে থাকা বই</h3>
+                                            <h3>Covid-19 Protection Products</h3>
                                         </div>
                                     </div>
                                         <div class="col-md-6">
@@ -258,11 +258,11 @@
                                                 <a href="#">
                                                     <div class="SideBar-book-img-wrap">
                                                         <div class="SideBar-bookimg">
-                                                            <img src="assetc/images/book/mukush.png" alt="">
+                                                            <img src="assetc/images/book/covid/fabrilife.jpg" alt="">
                                                         </div>
                                                         <div class="SideBar-discount-badge">
                                                             <img src="assetc/images/book/discount.png" alt="">
-                                                            <b>25</b>
+                                                            <b>23</b>
                                                         </div> 
                                                         <div class="SideBar-add-toCard-btn">
                                                         <a href="#">
@@ -272,14 +272,14 @@
                                                     </div>
                                                     <div class="SideBar-product-cart-text">
                                                         <div class="SideBar-book-title">
-                                                            <p>মুখোশ </p>
+                                                            <p>Fabrilife Premium 7 Layer cotton face Mask - Charcoal Color </p>
                                                         </div>
                                                         <div class="SideBar-book-price">
                                                             <div class="SideBar-book-orginal-price">
-                                                            <del><p> TK. 300</p></del>
+                                                            <del><p> TK. 350</p></del>
                                                             </div>
                                                             <div class="SideBar-currentPrice">
-                                                                <p> TK. 255</p>
+                                                                <p> TK. 270</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -299,11 +299,11 @@
                                                 <a href="#">
                                                     <div class="SideBar-book-img-wrap">
                                                         <div class="SideBar-bookimg">
-                                                            <img src="assetc/images/book/mukush.png" alt="">
+                                                            <img src="assetc/images/book/covid/fabri5.jpg" alt="">
                                                         </div>
                                                         <div class="SideBar-discount-badge">
                                                             <img src="assetc/images/book/discount.png" alt="">
-                                                            <b>25</b>
+                                                            <b>27</b>
                                                         </div> 
                                                         <div class="SideBar-add-toCard-btn">
                                                         <a href="#">
@@ -313,14 +313,14 @@
                                                     </div>
                                                     <div class="SideBar-product-cart-text">
                                                         <div class="SideBar-book-title">
-                                                            <p>মুখোশ </p>
+                                                            <p>Fabrilife Premium 5 Layer Hazel Kids Designer Edition Cotton Mask </p>
                                                         </div>
                                                         <div class="SideBar-book-price">
                                                             <div class="SideBar-book-orginal-price">
                                                             <del><p> TK. 300</p></del>
                                                             </div>
                                                             <div class="SideBar-currentPrice">
-                                                                <p> TK. 255</p>
+                                                                <p> TK. 220</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -339,11 +339,11 @@
                                                 <a href="#">
                                                     <div class="SideBar-book-img-wrap">
                                                         <div class="SideBar-bookimg">
-                                                            <img src="assetc/images/book/mukush.png" alt="">
+                                                            <img src="assetc/images/book/covid/latest.jpg" alt="">
                                                         </div>
                                                         <div class="SideBar-discount-badge">
                                                             <img src="assetc/images/book/discount.png" alt="">
-                                                            <b>25</b>
+                                                            <b>23</b>
                                                         </div> 
                                                         <div class="SideBar-add-toCard-btn">
                                                         <a href="#">
@@ -353,14 +353,14 @@
                                                     </div>
                                                     <div class="SideBar-product-cart-text">
                                                         <div class="SideBar-book-title">
-                                                            <p>মুখোশ </p>
+                                                            <p>Fabrilife Premium 7 Layer Festiva Womens Designer Edition Mask</p>
                                                         </div>
                                                         <div class="SideBar-book-price">
                                                             <div class="SideBar-book-orginal-price">
-                                                            <del><p> TK. 300</p></del>
+                                                            <del><p> TK. 290</p></del>
                                                             </div>
                                                             <div class="SideBar-currentPrice">
-                                                                <p> TK. 255</p>
+                                                                <p> TK. 370</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -379,11 +379,11 @@
                                                 <a href="#">
                                                     <div class="SideBar-book-img-wrap">
                                                         <div class="SideBar-bookimg">
-                                                            <img src="assetc/images/book/mukush.png" alt="">
+                                                            <img src="assetc/images/book/covid/white mask.jpg" alt="">
                                                         </div>
                                                         <div class="SideBar-discount-badge">
                                                             <img src="assetc/images/book/discount.png" alt="">
-                                                            <b>25</b>
+                                                            <b>23</b>
                                                         </div> 
                                                         <div class="SideBar-add-toCard-btn">
                                                         <a href="#">
@@ -393,14 +393,14 @@
                                                     </div>
                                                     <div class="SideBar-product-cart-text">
                                                         <div class="SideBar-book-title">
-                                                            <p>মুখোশ </p>
+                                                            <p>Fabrilife Premium 7 Layer cotton face Mask - White Color </p>
                                                         </div>
                                                         <div class="SideBar-book-price">
                                                             <div class="SideBar-book-orginal-price">
-                                                            <del><p> TK. 300</p></del>
+                                                            <del><p> TK. 350</p></del>
                                                             </div>
                                                             <div class="SideBar-currentPrice">
-                                                                <p> TK. 255</p>
+                                                                <p> TK. 270</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -427,7 +427,7 @@
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="ProductSetcionTitle">
-                                            <h3>বইমেলা ২০২১</h3>
+                                            <h3>পশ্চিমবঙ্গের সেরা সব বই👍</h3>
                                         </div>
                                     </div>
                                         <div class="col-md-6">
@@ -445,7 +445,7 @@
                                                 <a href="#">
                                                     <div class="SideBar-book-img-wrap">
                                                         <div class="SideBar-bookimg">
-                                                            <img src="assetc/images/book/mukush.png" alt="">
+                                                            <img src="assetc/images/book/covid/kuyasha.jpg" alt="">
                                                         </div>
                                                         <div class="SideBar-discount-badge">
                                                             <img src="assetc/images/book/discount.png" alt="">
@@ -459,14 +459,14 @@
                                                     </div>
                                                     <div class="SideBar-product-cart-text">
                                                         <div class="SideBar-book-title">
-                                                            <p>মুখোশ </p>
+                                                            <p>কুয়াশায় ঢাকা থাক </p>
                                                         </div>
                                                         <div class="SideBar-book-price">
                                                             <div class="SideBar-book-orginal-price">
                                                             <del><p> TK. 300</p></del>
                                                             </div>
                                                             <div class="SideBar-currentPrice">
-                                                                <p> TK. 255</p>
+                                                                <p> TK. 126</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -486,7 +486,7 @@
                                                 <a href="#">
                                                     <div class="SideBar-book-img-wrap">
                                                         <div class="SideBar-bookimg">
-                                                            <img src="assetc/images/book/mukush.png" alt="">
+                                                            <img src="assetc/images/book/covid/premika.gif" alt="">
                                                         </div>
                                                         <div class="SideBar-discount-badge">
                                                             <img src="assetc/images/book/discount.png" alt="">
@@ -500,14 +500,14 @@
                                                     </div>
                                                     <div class="SideBar-product-cart-text">
                                                         <div class="SideBar-book-title">
-                                                            <p>মুখোশ </p>
+                                                            <p>প্রেমিকা নেই?  </p>
                                                         </div>
                                                         <div class="SideBar-book-price">
                                                             <div class="SideBar-book-orginal-price">
-                                                            <del><p> TK. 300</p></del>
+                                                            <del><p> TK. 100</p></del>
                                                             </div>
                                                             <div class="SideBar-currentPrice">
-                                                                <p> TK. 255</p>
+                                                                <p> TK. 90</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -526,7 +526,7 @@
                                                 <a href="#">
                                                     <div class="SideBar-book-img-wrap">
                                                         <div class="SideBar-bookimg">
-                                                            <img src="assetc/images/book/mukush.png" alt="">
+                                                            <img src="assetc/images/book/covid/beiman.jpg" alt="">
                                                         </div>
                                                         <div class="SideBar-discount-badge">
                                                             <img src="assetc/images/book/discount.png" alt="">
@@ -540,14 +540,14 @@
                                                     </div>
                                                     <div class="SideBar-product-cart-text">
                                                         <div class="SideBar-book-title">
-                                                            <p>মুখোশ </p>
+                                                            <p>বেইমান </p>
                                                         </div>
                                                         <div class="SideBar-book-price">
                                                             <div class="SideBar-book-orginal-price">
-                                                            <del><p> TK. 300</p></del>
+                                                            <del><p> TK. 400</p></del>
                                                             </div>
                                                             <div class="SideBar-currentPrice">
-                                                                <p> TK. 255</p>
+                                                                <p> TK. 360</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -566,7 +566,7 @@
                                                 <a href="#">
                                                     <div class="SideBar-book-img-wrap">
                                                         <div class="SideBar-bookimg">
-                                                            <img src="assetc/images/book/mukush.png" alt="">
+                                                            <img src="assetc/images/book/covid/sky.jpg" alt="">
                                                         </div>
                                                         <div class="SideBar-discount-badge">
                                                             <img src="assetc/images/book/discount.png" alt="">
@@ -580,14 +580,14 @@
                                                     </div>
                                                     <div class="SideBar-product-cart-text">
                                                         <div class="SideBar-book-title">
-                                                            <p>মুখোশ </p>
+                                                            <p>গল্পে গল্পে আকাশ চেনা </p>
                                                         </div>
                                                         <div class="SideBar-book-price">
                                                             <div class="SideBar-book-orginal-price">
-                                                            <del><p> TK. 300</p></del>
+                                                            <del><p> TK. 600</p></del>
                                                             </div>
                                                             <div class="SideBar-currentPrice">
-                                                                <p> TK. 255</p>
+                                                                <p> TK. 540</p>
                                                             </div>
                                                         </div>
                                                     </div>
